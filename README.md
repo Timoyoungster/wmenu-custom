@@ -1,3 +1,5 @@
+# Fork of [~adnano/wmenu](https://git.sr.ht/~adnano/wmenu)
+
 # wmenu
 
 wmenu is an efficient dynamic menu for Sway and wlroots based Wayland

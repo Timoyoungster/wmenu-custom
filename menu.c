@@ -474,6 +474,7 @@ void menu_keypress(struct menu *menu, enum wl_keyboard_key_state key_state,
 		case XKB_KEY_J:
 		case XKB_KEY_m:
 		case XKB_KEY_M:
+		case XKB_KEY_y:
 			sym = XKB_KEY_Return;
 			ctrl = false;
 			break;
